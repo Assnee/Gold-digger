@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Assnee/Gold-digger/issues"
   },
-  "homepage": "https://github.com/Assnee/Gold-digger#readme"
+  "homepage": "https://github.com/Assnee/Gold-digger#readme",
+  "dependencies": {
+    "mime": "^4.0.7"
+  }
 }
