@@ -1,0 +1,21 @@
+{
+  "name": "goldjson",
+  "version": "1.0.0",
+  "description": "a dataset that fetch an updated version of an balance",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Assnee/Gold-digger.git"
+  },
+  "author": "Asni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Assnee/Gold-digger/issues"
+  },
+  "homepage": "https://github.com/Assnee/Gold-digger#readme"
+}
